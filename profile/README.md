@@ -1,6 +1,6 @@
-# 👋 Welcome to the Grid Atlas Organization
+# 👋 Welcome to the Grid Kitchen Organization
 
-**Grid Atlas** is a PNNL and NREL led initiative focused around generating realistic datasets and metadata for distributed energy systems.
+**Grid Kitchen** is a PNNL and NREL led initiative focused around generating realistic datasets and metadata for distributed energy systems.
 
 Our goal is to enable transparency, reproducibility, and collaboration in building the next generation distribution dataset.
 
@@ -10,9 +10,9 @@ Our goal is to enable transparency, reproducibility, and collaboration in buildi
 
 | Project        | Description                                                  |
 |----------------|--------------------------------------------------------------|
-| [grid-meta](https://github.com/grid-atlas/grid-meta) | A repository for extracting dehydrated metadata for distribution power grid model. |
-| [grid-reducer](https://github.com/grid-atlas/grid-reducer) | A repository for performing network reduction in distribution system power flow model. |
-| [dss-ai](https://github.com/grid-atlas/dss-ai) | A repository for interacting with OpenDSS model using LLM. |
+| [grid-meta](https://github.com/grid-kitchen/grid-meta) | A repository for extracting dehydrated metadata for distribution power grid model. |
+| [grid-reducer](https://github.com/grid-kitchen/grid-reducer) | A repository for performing network reduction in distribution system power flow model. |
+| [dss-ai](https://github.com/grid-kitchen/dss-ai) | A repository for interacting with OpenDSS model using LLM. |
 
 
 ---
@@ -53,7 +53,7 @@ Got questions, ideas, or want to collaborate?
 
 ---
 
-> © 2025 Grid Atlas — Built with ❤️ for a smarter energy future.
+> © 2025 Grid Kitchen — Built with ❤️ for a smarter energy future.
 
 
 <!--
