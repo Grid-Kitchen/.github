@@ -1,6 +1,6 @@
 # 👋 Welcome to the Grid Kitchen Organization
 
-**Grid Kitchen** is a PNNL and NREL led initiative focused around generating realistic datasets and metadata for distributed energy systems.
+**Grid Kitchen** is a PNNL and NLR led initiative focused around generating realistic datasets and metadata for distributed energy systems.
 
 Our goal is to enable transparency, reproducibility, and collaboration in building the next generation distribution dataset.
 
